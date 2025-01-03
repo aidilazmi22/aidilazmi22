@@ -1,5 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m working on personal web scraping projects.
-- 🌱 Focusing on expanding my data extraction skillset.
+- 🌱 I'm expanding my data extraction & coding skillset.
+- ⏳ I'll add some of my projects to GitHub periodically.
 - 📫 Feel free to contact me 😄
